@@ -1,0 +1,6 @@
+Operação,Tempo (segundos)
+Inserção em massa,3.350588798522949
+Consulta simples,0.11899900436401367
+Consulta complexa,0.12661170959472656
+Atualização,0.14507532119750977
+Deleção,0.11951303482055664
